@@ -1,4 +1,4 @@
-#Gradient Background Generator
+# Gradient Background Generator
 
 Background generator website which was built using HTML, CSS and JavaScript as part of the Zero to Mastery Complete Web Developer in 2023 Course.
 
